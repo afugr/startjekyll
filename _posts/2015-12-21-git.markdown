@@ -1,0 +1,8 @@
+---
+title: git
+date: 2015-12-21T00:18:52-05:00
+---
+sudo octopress new post "git"
+sudo git add .
+sudo git commit -m "post"
+sudo git push -u origin gh-pages
